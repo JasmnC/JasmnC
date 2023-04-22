@@ -43,10 +43,10 @@ Want to know more about me? [Check out my portfolio.]()
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/JasmnC/Final-Project-PawPal">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmnc&repo=Final-Project-PawPal&theme=tokyonight" />
 </a>
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/JasmnC/Word-Puzzle-Game">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmnc&repo=Word-Puzzle-Game&theme=tokyonight" />
 </a>
 <br>
