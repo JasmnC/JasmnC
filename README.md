@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 (add self intro)
 
-Want to know more about me? [Check out my portfolio.]()
+Want to know more about me? [Check out my site.](https://jasmnc.github.io)
 
 ## &#x1f4c8; GitHub Stats
 
