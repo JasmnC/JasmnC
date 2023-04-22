@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jasmine-yj-chen/)
 
 ### Hi there 👋
-(add self intro)
+
+This is Jasmine, I'm a current masters student of information systems at Northeastern University;
+
+I'm a software engineer with business background and an aspiring researcher.
 
 Want to know more about me? [Check out my site.](https://jasmnc.github.io)
 
