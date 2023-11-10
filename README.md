@@ -52,6 +52,12 @@ Want to know more about me? [Check out my site.](https://jasmnc.github.io)
 <a href="https://github.com/JasmnC/Word-Puzzle-Game">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmnc&repo=Word-Puzzle-Game&theme=tokyonight" />
 </a>
+<a href="https://github.com/JasmnC/PlusRental">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmnc&repo=PlusRental&theme=tokyonight" />
+</a>
+<a href="https://github.com/JasmnC/storybook">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmnc&repo=storybook&theme=tokyonight" />
+</a>
 <br>
 
 
