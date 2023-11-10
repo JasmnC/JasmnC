@@ -67,8 +67,11 @@ Want to know more about me? [Check out my site.](https://jasmnc.github.io)
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4682B4)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=FFDB58)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Python&logoColor=white&color=FFDB58)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=FFDB58)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FFDB58)
 
 <details>
 <summary>More Skills</summary>
