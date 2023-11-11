@@ -56,7 +56,7 @@ Want to know more about me? [Check out my site.](https://jasmnc.github.io)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmnc&repo=PlusRental&theme=tokyonight" />
 </a>
 <a href="https://github.com/JasmnC/storybook">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmnc&repo=storybook&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmnc&repo=Steer-My-Heart&theme=tokyonight" />
 </a>
 <br>
 
