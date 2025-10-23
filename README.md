@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-This is Jasmine, I'm a current masters student of information systems at Northeastern University;
+This is Jasmine, I'm a software engineer who recently graduated with a master in information systems at Northeastern University;
 
-I'm a software engineer with business background and an aspiring researcher.
+My expertise are in data/devops engineering, and I have experiance with full stack engineering and been throught all phases of software development lifecycle.
+
+I'm also exploring in starting my own platform and implementing AI solutions to build a community and make an impact to people around me.
 
 Want to know more about me? [Check out my site.](https://jasmnc.github.io)
 
